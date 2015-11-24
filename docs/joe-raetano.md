@@ -5,3 +5,4 @@
  - [ ] A favorite food: BBQ
  - [ ] A hobby: Play Guitar
  - [ ] Favorite Color: Blue
+ - [ ] Favorite Place: Monterey, CA
